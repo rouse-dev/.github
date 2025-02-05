@@ -1,7 +1,7 @@
 <h1 align="center">Добро пожаловать в нашу организацию! 👋</h1>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/5KQoAjQeAnQAAAAd/neon-genesis.gif" alt="welcome" width="80%" />
+  <img src="https://media1.tenor.com/m/5KQoAjQeAnQAAAAd/neon-genesis.gif" alt="welcome" width="100%" />
 </p>
 
 ---
@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/JWHWCKYIfyIAAAAd/ken-ken-takakura.gif" alt="welcome" width="80%" />
+  <img src="https://media1.tenor.com/m/JWHWCKYIfyIAAAAd/ken-ken-takakura.gif" alt="welcome" width="100%" />
 </p>
 
 ---
@@ -41,6 +41,6 @@
 ---
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/unsJnf3amgYAAAAC/gta-gta-sa.gif" alt="welcome" width="80%" />
+  <img src="https://media1.tenor.com/m/unsJnf3amgYAAAAC/gta-gta-sa.gif" alt="welcome" width="100%" />
 </p>
 <h3 align="center">Давайте создавать крутые проекты вместе! 💻✨</h3>
